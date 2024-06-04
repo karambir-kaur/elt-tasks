@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+
+ - name: KARAMBIR_KAUR_DIT_45604
+   description: "Class Test Data"
+   database: KARAMBIR_KAUR_DIT_45604
+   schema: CLASS_TEST
+   tables:
+      - name: CUSTOMERS
+        description: "This is customer table info"
+      - name: ORDERS
+        description: "This is orders table info"
+      - name: PRODUCT
+        description: "This is product table info"
